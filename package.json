@@ -1,0 +1,18 @@
+{
+    "name": "currencies",
+    "version": "1.0.0",
+    "description": "Coding Kata from TDD by Example, Kent Beck",
+    "main": "index.ts",
+    "author": "Pablo Baleztena",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "@types/jest": "^26.0.14",
+        "jest": "^26.4.2",
+        "ts-jest": "^26.3.0",
+        "typescript": "^4.0.3"
+    }
+}
